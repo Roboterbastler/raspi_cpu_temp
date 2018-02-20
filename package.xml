@@ -45,8 +45,8 @@
   <build_depend>rospy</build_depend>
   <run_depend>rospy</run_depend>
 
-  <build_depend>roseau_msgs</build_depend>
-  <run_depend>roseau_msgs</run_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <run_depend>sensor_msgs</run_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>

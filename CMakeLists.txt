@@ -9,7 +9,7 @@ project(raspi_cpu_temp)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   rospy
-  roseau_msgs
+  sensor_msgs
 )
 
 ## System dependencies are found with CMake's conventions
